@@ -1,0 +1,1 @@
+-wto "c32e7cce36494601a482e8e64d7b0d07" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_bresenham_circle_behav" "xil_defaultlib.tb_bresenham_circle" "xil_defaultlib.glbl" -log "elaborate.log" 

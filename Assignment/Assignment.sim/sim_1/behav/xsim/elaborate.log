@@ -1,0 +1,14 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto c32e7cce36494601a482e8e64d7b0d07 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_bresenham_circle_behav xil_defaultlib.tb_bresenham_circle xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/it/Vivado_projects/Assignment/Assignment.srcs/sources_1/new/bresenham_circle.sv" Line 1. Module bresenham_circle doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.bresenham_circle
+Compiling module xil_defaultlib.tb_bresenham_circle
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_bresenham_circle_behav

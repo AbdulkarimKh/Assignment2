@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_bresenham_circle_behav/xsimk -simmode gui -wdb tb_bresenham_circle_behav.wdb -simrunnum 0 -socket 37893
+Design successfully loaded
+Design Loading Memory Usage: 33008 KB (Peak: 33572 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 115004 KB (Peak: 172276 KB)
+Simulation CPU Usage: 60 ms
